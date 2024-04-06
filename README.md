@@ -16,7 +16,7 @@ The login form consists of various SVG elements that create an animated characte
 ## Usage
 
 1. Clone the repository to your local machine:
-git clone <repository_URL>
+git clone <[repository_URL](https://github.com/pradyu25/Animated-login)>
 
 2. Open the `index.html` file in your preferred web browser.
 
@@ -30,8 +30,4 @@ git clone <repository_URL>
 ## Credits
 
 This project was inspired by [source/author's name or website], and the SVG elements were adapted from [source/author's name or website].
-
-## License
-
-[License information goes here, if applicable.]
 
